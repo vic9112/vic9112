@@ -1,4 +1,6 @@
-- Hi, I’m Kuan-Hsi(Vic) Chen. I am a National Tsing-Hua University student pursuing dual majors in Electrical Engineering and Music.
+- Hi, I’m Kuan-Hsi(Vic), Chen.
+- I am a master's student at **National Tsing-Hua University**.
+- Currently having an internship at **[Realtek](https://www.realtek.com/)**.
 - My primary focus is on ➡️**Digital IC Design**⬅️.
 - Here's my email: s179038@gmail.com
 <!---
