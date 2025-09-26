@@ -1,5 +1,5 @@
 - Hi, I’m Kuan-Hsi(Vic) Chen. I am a National Tsing-Hua University student pursuing dual majors in Electrical Engineering and Music.
-- My primary focus is on ➡️**SOC Design**⬅️.
+- My primary focus is on ➡️**Digital IC Design**⬅️.
 - Here's my email: s179038@gmail.com
 <!---
 vic9112/vic9112 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
